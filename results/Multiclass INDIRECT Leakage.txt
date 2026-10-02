@@ -1,0 +1,11 @@
+FINAL RESULT (INDIRECT LEAKAGE)
+Accuracy: 0.9879045820289255
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27900
+           1       1.00      0.99      0.99     49402
+
+    accuracy                           0.99     77302
+   macro avg       0.99      0.99      0.99     77302
+weighted avg       0.99      0.99      0.99     77302
+

@@ -1,0 +1,14 @@
+🔥 FINAL GAN RESULT (FIXED)
+Accuracy: 0.9914938504354072
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99     23117
+           1       0.99      0.99      0.99     21439
+
+    accuracy                           0.99     44556
+   macro avg       0.99      0.99      0.99     44556
+weighted avg       0.99      0.99      0.99     44556
+

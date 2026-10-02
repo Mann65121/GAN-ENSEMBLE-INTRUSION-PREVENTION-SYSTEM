@@ -1,0 +1,8 @@
+data/
+models/
+results/
+venv/
+*.pth
+*.pkl
+*.csv
+__pycache__/

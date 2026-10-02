@@ -1,0 +1,14 @@
+FINAL RESULT (INDIRECT LEAKAGE - NO attack_cat)
+Accuracy: 0.9752270316421309
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.97     27900
+           1       0.99      0.97      0.98     49402
+
+    accuracy                           0.98     77302
+   macro avg       0.97      0.98      0.97     77302
+weighted avg       0.98      0.98      0.98     77302
+
